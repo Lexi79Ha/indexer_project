@@ -36,7 +36,7 @@ class TestJSONValidation(unittest.TestCase):
             with self.subTest(filename=filename):
                 self.assertTrue(height.isdigit() and int(height) > 0)
 
-    def tearDown(self):
+    def tearDown(self): #Connect test to log.txt file, so that test results will be pushed to file
         # Set up logging for successful tests
         logger = logging.getLogger("test_logger")
         logger.setLevel(logging.INFO)
