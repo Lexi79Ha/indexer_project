@@ -1,0 +1,60 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/ibc.applications.transfer.v1.MsgTransfer",
+          "source_port": "transfer",
+          "source_channel": "channel-8",
+          "token": {
+            "denom": "uwhale",
+            "amount": "1730074000"
+          },
+          "sender": "migaloo1mmr2gl33xftfcejemw2etcdz7gsmraq6x8jjhv",
+          "receiver": "kujira1mmr2gl33xftfcejemw2etcdz7gsmraq66mes0g",
+          "timeout_height": {
+            "revision_number": "0",
+            "revision_height": "0"
+          },
+          "timeout_timestamp": "1709844691623000000",
+          "memo": ""
+        }
+      ],
+      "memo": "undefined",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A0BOCvcS7adOdSbQ+fHN4rcVHVHOZ/6JTjRH5zaowzPx"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_DIRECT"
+            }
+          },
+          "sequence": "1089"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "150000"
+          }
+        ],
+        "gas_limit": "150000",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "Elf4xFmpRlp5G38j3fgeoNGeC9f9IA46cXmgogRRg+Yp91SmMt/eti2MIc1tyVnPqFbYAk8QmXA7EmX7up3dAw=="
+    ]
+  }
+}
