@@ -1,4 +1,6 @@
 <h1>Indexer Blockchain Project</h1>
+<h3> Current Progress </h3>
+<h4>To test current progress on project input an ibc transaction block number into Step_1.py to pull json file, and then insert the same block number inside of Decrypt_Clean_Upload.py and connect to a postgres db<h4>
 <h2>Project Summary</h2>
 <h4>To create a system that can extract JSON files, translate the encrypted transactions, and upload that information into a database that will act as a distributed ledger. 
 </h4>
