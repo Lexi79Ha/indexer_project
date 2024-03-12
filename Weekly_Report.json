@@ -1,0 +1,173 @@
+{
+    "settings": {
+        "fontstyle": "Times New Roman",
+        "head": {
+            "title": {
+                "fontSize": 27,
+                "align": "center"
+            },
+            "subtitle": {
+                "fontSize ": 17,
+                "align": "center"
+            }
+        },
+        "book": {
+            "italic": "true"
+        }
+    },
+    "Contact Info": {
+        "name": "Alexis Harris",
+        "phone": "(816) - 244 - 0920",
+        "email": "lmh.mo.6@gmail.com",
+        "telegram": "A_harris79",
+        "github": "Lexi79Ha"
+    },
+    "head": {
+        "title": "Weekly Report 9",
+        "subtitle": "Week 9:  3/04- 3/08"
+
+
+    },
+
+    "body": {
+        "Project List": "1.The Traveling Politician Problem ",
+        "a": "The problem is to find the most efficient route for a politician to travel to every state capital once, starting in Iowa, and ending in Washington, DC",
+        "2": "Indexer Project",
+        "Project Objective": " To create a system that can extract JSON files, translate the encrypted transactions, and upload that information into a database that will act as a distributed ledger. ",
+        "What_Is_a_Blockchain": {
+            "Description": "A blockchain is a distributed database or ledger shared among a network of computers (nodes).",
+            "Famous_Role": "While it’s most famous for its role in cryptocurrency systems, it’s not limited to just that.",
+            "Immutable_Data": "Blockchains can be used to make data in any industry immutable, meaning it cannot be altered.",
+            "Decentralization": "Unlike traditional databases, where trust often relies on third parties, blockchains operate without a central authority.",
+            "Collective_Control": "Decentralized blockchains are particularly interesting because no single person or group controls them—instead, all users collectively retain control."
+        },
+        "How_Does_a_Blockchain_Work": {
+            "Description": "Imagine a spreadsheet or database where information is entered and stored.",
+            "Data_Structure": "In a blockchain, data is structured differently and accessed via a series of blocks linked together using cryptography.",
+            "Process": {
+                "Transaction_Information": "The blockchain collects transaction data and enters it into a block.",
+                "Block_Creation": "A block is created after a predetermined amount of time.",
+                "Chained_Blocks": "This hash becomes part of the next block, creating a chain of blocks.",
+                "Immutability": "Once data is recorded, it’s irreversible. For example, in Bitcoin, transactions are permanently viewable by anyone."
+            },
+            "Blockchain-related links": {
+                "a": "https://fio.bloks.io/",
+                "b": "https://github.com/White-Whale-Defi-Platform/migaloo-chain.git"
+            },
+            "3": "Medicaid Expenditure Forecasting Project",
+            "a": "Our goal for this project is to forecast future Medicaid enrollments and expenditures both nationwide and state-specific. The forecasts will bepredicted using Facebook’s forecasting tool called Prophet, which is a system that uses Python to create large-scale forecasts. The results provided in Prophet will be shown using Instadeq, which is a data visualization and business intelligence software that can be used for the collection, integration, analysis, and presentation of data. The final output will consist of both pie charts and bar charts that will show the predictions for future Medicaid enrollments and expenditures.",
+            "4": "Provider Lookup Project",
+            "a": "The goal of this project is to create a system that allows users to search for and locate Medicaid providers. The user interface will be designed with Django, the system will be built using Python, and the database will be stored in PostgreSQL.",
+            "5.": "Online Bookstore Project",
+            "a.": "The goal of this project is to create an online bookstore that allows users to search for books, order books, and receive an email that will provide a file that will act like an e-book. This online store will be built using python, the user-interface will be created using Django, and the database will be stored in PostgreSQL.",
+
+
+          "WeeklyTasks": {
+        "Monday": {
+            "Indexer Project": {
+                "Task 1": "Reviewed and downloaded different transaction types to start planning the next steps of the project.",
+                "Task 2": "Attempted to reformat some of the Json files to prepare for Postgres."
+            }
+        },
+        "Tuesday": {
+            "Online Bookstore": {
+                "Task 1": "Created data files for the bookstore and built schema based on the ERD diagram."
+            }
+        },
+        "Wednesday": {
+            "Indexer Project": {
+                "Task 1": "Started to pull transaction data by individual objects and send those to an ibc_transactions Postgres table."
+            },
+            "Online Bookstore": {
+                "Task 1": "Added some sample customer orders to order tables and made a query script to pull book information based on ISBN numbers."
+            }
+        },
+        "Thursday": {
+            "Indexer Project": {
+                "Task 1": "Created a Python script to send decrypted transaction data to a new Json file and a new directory.",
+                "Task 2": "Cleaned up the Json file data with pandas and converted it to a tabular format for Postgres."
+            },
+            "Documentation": {
+                "Task 1": "Created documentation for the project."
+            }
+        }
+    }
+},
+                
+
+
+
+
+
+                "PlanForNextWeek": "Next week I plan to continue to work on the indexer project and modify my current Python script to be compatible with more transaction types. I also would like to expand the types of queries users will be able to use for the Online bookstore to titles and authors."
+
+
+
+            },
+
+            "HoursWorked": "21",
+            "Github Link": "https://github.com/Lexi79Ha/indexer.git",
+
+
+        "Work Time Distribution in Hours": {
+            "Meetings": "5",
+            "Indexer Project": "10",
+            "Documentation": "1",
+            "Online Bookstore": "5"
+
+        },
+        
+        "Intern Checklist": {
+                "1": "Receive the internship offer letter",
+                "2": "Accept the terms of the offer letter",
+                "2.1": "Create a telegram account and be added into group chat",
+                "2.2": "Create a Github account",
+                "2.2.1.":"Create a Repository for each of your Projects",
+                "2.3.":"Obtain Instadeq login information",  
+                "2.3.1.": "Watch Instadeq tutorials",  
+                "2.3.2.":"Practice Instadeq",  
+                "2.4.":"Obtain Ubuntu login information",  
+                "2.4.1.": "Watch bash tutorials",
+                "2.4.2.":"Practice bash",  
+                "2.4.3.":"Be able to run ‘zip.py’ by yourself", 
+                "3.":"Attend the daily standup calls",
+                "4.":"Take notes and produce weekly report", 
+                "4.1.":"PDF ",
+                "4.2.":"JSON", 
+                "5.":"Learn about Medicaid domain",  
+                "5.1.":"What is Medicaid", 
+                "5.2.":"Reading the blog from EMRTS.us",  
+                "5.3.":"Understand the sources",  
+                "6.":"Learn about time series analysis", 
+                "6.1.":"Online tutorial",  
+                "6.2.":"What is Prophet",  
+                "6.3.":"Packages/programming languages to use.",  
+                "6.4.":"Practice Prophet", 
+                "7.":"Develop your Development Practices and Strategy",
+                "7.1":"Learn how to practice test-driven development.",
+                "7.1.1":"Read EMRTS Software Testing Approach",
+                "7.1.2":"Learn how to create Test-units.",
+                "7.2":"Study Software Development Strategy",
+                "7.2.1":"Read Mythical Man Months",
+                "7.2.2":"Read The Cathedral and the Bizarre",
+                "8.":"Work on the Assigned Projects",
+                "8.1.":"Projects list",
+                "8.1.1.":"Traveling Politician",
+                "8.1.2.":"Indexer Project",
+                "8.1.3.":"Medicaid Enrollment and Expense Forecasting",
+                "8.1.4.":"Provider look-up",
+                "8.1.5.":"Online Bookstore",  
+                "8.2.":"Understand the purpose of each Project.",  
+                "8.2.1.":"Create a PowerPoint Project to describe each project and convey learning objectives.",
+                "8.3.":"Teamwork",  
+                "8.3.1.":"Discuss and share the opinion and thoughts over Project.",  
+                "8.3.2.":"Distribute the part of working."
+        },     
+  
+            
+        "foot": {
+            "filename": "Alexis_Harris_Weekly_Report_9",
+            "date": "3/04 – 3/08"
+        
+        }
+    }
