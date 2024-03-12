@@ -1,0 +1,34 @@
+2024-03-11 15:38:47,477 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:38:48,110 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+2024-03-11 15:39:13,007 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:39:13,839 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+2024-03-11 15:39:32,520 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:39:33,137 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:40:56,510 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:40:56,526 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+2024-03-11 15:41:13,279 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:41:13,296 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files\5846136.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:48:23,967 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5846136.json' exists. Proceeding with further actions.
+2024-03-11 15:48:24,695 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5846136.json'
+INFO:root:Data saved to C:/Users/lmhmo/indexer/blocks\5905903.json
+2024-03-11 15:49:46,221 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5905903.json' exists. Proceeding with further actions.
+2024-03-11 15:49:50,162 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5905903.json'
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903_1.json' exists. Proceeding with further actions.
+2024-03-11 15:51:29,474 - INFO - File 'C:/Users/lmhmo/indexer/blocks/5905903.json' exists. Proceeding with further actions.
+2024-03-11 15:51:29,488 - INFO - Data processed successfully from file 'C:/Users/lmhmo/indexer/blocks/5905903.json'
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+2024-03-11 15:57:36,278 - INFO - File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+2024-03-11 15:59:59,339 - INFO - File 'C:/Users/lmhmo/indexer/Decrypted_files/5905903.json' exists. Proceeding with further actions.

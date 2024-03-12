@@ -4,7 +4,7 @@ import logging
 
 def fetch_and_save_block_data(block_number, folder):
     # Make the API request
-    url = f"http://116.202.143.93:1317/cosmos/base/tendermint/v1beta1/blocks/1000000"
+    url = f"http://116.202.143.93:1317/cosmos/base/tendermint/v1beta1/blocks/5904853"
     response = requests.get(url)
 
     # Extract the height from the response (assuming it's available)
@@ -21,18 +21,18 @@ def fetch_and_save_block_data(block_number, folder):
 
 if __name__ == "__main__":
     # Set up logging
-    logging.basicConfig(filename="log.txt", level=logging.INFO)
+    logging.basicConfig(filename="../tests/log.txt", level=logging.INFO)
     logger = logging.getLogger()
 
     # Create a separate logger for errors
     error_logger = logging.getLogger("error_logger")
     error_logger.setLevel(logging.ERROR)
-    error_handler = logging.FileHandler("error.txt")
+    error_handler = logging.FileHandler("../tests/error.txt")
     error_logger.addHandler(error_handler)
 
     try:
-        folder_path = "C:/Users/lmhmo/indexer/blocks"
-        _, saved_filename = fetch_and_save_block_data(1000000, folder_path)
+        folder_path = "/blocks"
+        _, saved_filename = fetch_and_save_block_data(5904853, folder_path)
         logger.info(f"Data saved to {saved_filename}")
     except Exception as e:
         logger.error(f"Error occurred: {str(e)}")

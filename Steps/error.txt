@@ -1,0 +1,11 @@
+Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+File 'C:/Users/lmhmo/indexer/Decrypted_files/584389_1.json' does not exist.
+Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+File 'C:/Users/lmhmo/indexer/Decrypted_files/584389_1.json' does not exist.
+File 'C:/Users/lmhmo/indexer/blocks/5904854.json' does not exist.
+File 'C:/Users/lmhmo/indexer/blocks/5905784.json' does not exist.
+File 'C:/Users/lmhmo/indexer/Decrypted_files/584389_1.json' does not exist.
+File 'C:/Users/lmhmo/indexer/Decrypted_files/584389.json' does not exist.
+File 'C:/Users/lmhmo/indexer/Decrypted_files/5846136.json' does not exist.

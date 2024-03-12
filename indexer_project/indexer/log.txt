@@ -1,0 +1,11 @@
+INFO:root:Data saved to C:/Users/lmhmo/indexer/blocks\1000000.json
+Test 'test_height_positive_integer' passed
+Test 'test_json_file_extension' passed
+Test 'test_json_file_extension' passed
+Test 'test_valid_json_files_exist' passed
+Test 'test_valid_json_files_exist' passed
+Test 'test_valid_json_files_exist' passed
+Test 'test_valid_json_format' passed
+Test 'test_valid_json_format' passed
+Test 'test_valid_json_format' passed
+Test 'test_valid_json_format' passed
