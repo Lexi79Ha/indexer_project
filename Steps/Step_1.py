@@ -31,7 +31,7 @@ if __name__ == "__main__":
     error_logger.addHandler(error_handler)
 
     try:
-        folder_path = "C:/Users/lmhmo/indexer/blocks"
+        folder_path = "C:/Users/lmhmo/Indexer_Project/indexer_project/blocks"
         _, saved_filename = fetch_and_save_block_data('5904853', folder_path)
         logger.info(f"Data saved to {saved_filename}")
     except Exception as e:
