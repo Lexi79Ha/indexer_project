@@ -1,6 +1,5 @@
 <h1>Indexer Blockchain Project</h1>
-<h3> Current Progress </h3>
-<h4>To test current progress on project input an ibc transaction block number into into step_1, step_2, step_3 files in steps directory.<h4>
+<h3> Current working progress is in steps directory</h3>
 <h2>Project Summary</h2>
 <h4>To create a system that can extract JSON files, translate the encrypted transactions, and upload that information into a database that will act as a distributed ledger. 
 </h4>
