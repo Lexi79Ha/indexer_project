@@ -1,0 +1,58 @@
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:28:23,765 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:29:12,991 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:29:25,256 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:29:33,346 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:29:51,135 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:30:28,202 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:31:03,438 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:32:10,550 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:34:02,121 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6011411.json' exists. Proceeding with further actions.
+2024-03-18 16:38:16,010 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+2024-03-18 16:42:20,638 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905903.json' exists. Proceeding with further actions.
+2024-03-19 09:30:52,139 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905784.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
