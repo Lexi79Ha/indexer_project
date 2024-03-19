@@ -1,5 +1,0 @@
-{
-  "code": 2,
-  "message": "codespace sdk code 2: tx parse error: txRaw must follow ADR-027, got tagNum 1 after tagNum 3",
-  "details": []
-}

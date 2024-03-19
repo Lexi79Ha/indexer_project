@@ -200,3 +200,62 @@ INFO:root:Connection established with Database.
 INFO:root:Connection established with Database.
 INFO:root:Connection established with Database.
 INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 15:54:39,944 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6012259.json
+2024-03-18 15:54:48,011 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6012259.json' exists. Proceeding with further actions.
+2024-03-18 15:54:48,032 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6012259.json'
+2024-03-18 15:56:33,413 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6012259.json' exists. Proceeding with further actions.
+2024-03-18 15:56:34,102 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6012259.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+2024-03-18 16:33:33,690 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6011411.json
+2024-03-18 16:33:42,688 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6011411.json' exists. Proceeding with further actions.
+2024-03-18 16:33:45,323 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6011411.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
