@@ -4,7 +4,7 @@ import logging
 
 def fetch_and_save_block_data( folder):
     # Make the API request
-    url = f"http://116.202.143.93:1317/cosmos/base/tendermint/v1beta1/blocks/5904853"
+    url = f"http://116.202.143.93:1317/cosmos/base/tendermint/v1beta1/blocks/59251581"
     response = requests.get(url)
 
     # Extract the height from the response (assuming it's available)

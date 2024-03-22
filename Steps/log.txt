@@ -259,3 +259,331 @@ INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5
 INFO:root:Connection established with Database.
 INFO:root:Connection established with Database.
 INFO:root:Connection established with Database.
+2024-03-19 11:19:48,724 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6024636.json
+2024-03-19 11:19:59,362 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json' exists. Proceeding with further actions.
+2024-03-19 11:19:59,449 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-19 16:35:16,106 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6027989.json
+2024-03-19 16:35:26,673 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027989.json' exists. Proceeding with further actions.
+2024-03-19 16:35:53,965 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6027997.json
+2024-03-19 16:36:03,125 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json' exists. Proceeding with further actions.
+2024-03-19 16:36:03,145 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 09:24:26,278 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6038689.json
+2024-03-20 09:24:36,918 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6038689.json' exists. Proceeding with further actions.
+2024-03-20 09:24:37,410 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6038689.json'
+2024-03-20 10:39:33,678 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039481.json
+2024-03-20 10:39:42,543 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json' exists. Proceeding with further actions.
+2024-03-20 10:39:43,029 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 11:52:00,677 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039131.json'
+2024-03-20 11:53:52,073 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6040110.json
+2024-03-20 11:54:02,633 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040110.json' exists. Proceeding with further actions.
+2024-03-20 11:54:03,723 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040110.json'
+2024-03-20 11:57:02,737 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6040033.json
+2024-03-20 11:57:14,155 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json' exists. Proceeding with further actions.
+2024-03-20 11:57:18,209 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json' exists. Proceeding with further actions.
+2024-03-20 11:57:18,229 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json'
+2024-03-20 13:20:26,048 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041182.json
+2024-03-20 13:20:59,005 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json' exists. Proceeding with further actions.
+2024-03-20 13:20:59,015 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json'
+2024-03-20 13:22:03,335 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041201.json
+2024-03-20 13:22:15,769 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041201.json' exists. Proceeding with further actions.
+2024-03-20 13:22:15,786 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041201.json'
+2024-03-20 13:24:45,309 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041212.json
+2024-03-20 13:24:54,601 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json' exists. Proceeding with further actions.
+2024-03-20 13:24:55,158 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json'
+2024-03-20 13:31:18,524 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041285.json
+2024-03-20 13:31:30,270 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041285.json' exists. Proceeding with further actions.
+2024-03-20 13:31:31,688 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041285.json'
+2024-03-20 13:31:56,833 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041296.json
+2024-03-20 13:32:13,156 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json' exists. Proceeding with further actions.
+2024-03-20 13:32:13,174 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json'
+2024-03-20 13:36:14,911 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041328.json
+2024-03-20 13:36:24,390 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041328.json' exists. Proceeding with further actions.
+2024-03-20 13:36:24,406 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041328.json'
+2024-03-20 14:07:10,089 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929539.json
+2024-03-20 14:07:21,105 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929539.json' exists. Proceeding with further actions.
+2024-03-20 14:07:21,121 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929539.json'
+2024-03-20 14:08:54,639 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929621.json
+2024-03-20 14:09:04,303 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json' exists. Proceeding with further actions.
+2024-03-20 14:09:04,321 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json'
+2024-03-20 14:12:05,198 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929489.json
+2024-03-20 14:12:15,244 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json' exists. Proceeding with further actions.
+2024-03-20 14:12:15,262 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json'
+2024-03-20 14:15:34,882 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928404.json
+2024-03-20 14:15:43,755 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928404.json' exists. Proceeding with further actions.
+2024-03-20 14:15:43,780 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928404.json'
+2024-03-20 14:17:02,729 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039877.json
+2024-03-20 14:17:08,760 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039877.json' exists. Proceeding with further actions.
+2024-03-20 14:17:11,323 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039877.json'
+2024-03-20 14:22:25,007 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928414.json
+2024-03-20 14:22:32,253 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-20 14:22:32,269 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-20 14:25:52,176 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928053.json
+2024-03-20 14:26:03,710 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json' exists. Proceeding with further actions.
+2024-03-20 14:26:03,726 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json'
+2024-03-20 14:31:19,311 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+2024-03-20 14:31:29,150 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:31:29,168 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:38:00,670 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+2024-03-20 14:38:03,592 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:38:03,611 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:38:05,660 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:38:05,674 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:39:50,515 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041257.json
+2024-03-20 14:39:57,455 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json' exists. Proceeding with further actions.
+2024-03-20 14:39:58,917 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json'
+2024-03-20 14:39:59,086 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json'
+2024-03-20 14:54:22,019 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5922546.json
+2024-03-20 14:54:26,938 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5922546.json
+2024-03-20 14:54:36,485 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json' exists. Proceeding with further actions.
+2024-03-20 14:54:36,501 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json'
+2024-03-20 14:56:55,008 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json' exists. Proceeding with further actions.
+2024-03-20 14:56:55,021 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json'
+2024-03-20 14:59:38,095 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5921581.json
+2024-03-20 14:59:46,747 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5921581.json' exists. Proceeding with further actions.
+2024-03-20 14:59:46,764 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5921581.json'
+2024-03-20 15:00:14,535 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6037692.json
+2024-03-20 15:00:21,621 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037692.json' exists. Proceeding with further actions.
+2024-03-20 15:00:21,641 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037692.json'
+2024-03-20 15:02:44,663 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6037723.json
+2024-03-20 15:02:53,273 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037723.json' exists. Proceeding with further actions.
+2024-03-20 15:02:53,296 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037723.json'
+2024-03-20 15:11:18,607 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6024636.json
+2024-03-20 15:11:34,760 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json' exists. Proceeding with further actions.
+2024-03-20 15:11:34,777 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 16:36:41,789 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:37:06,346 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:37:06,370 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 16:47:40,295 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:47:40,814 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-21 15:07:45,710 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929489.json
+2024-03-21 15:08:00,715 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json' exists. Proceeding with further actions.
+2024-03-21 15:08:00,733 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json'
+INFO:root:Connection established with Database.
+2024-03-21 15:20:02,172 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041212.json
+2024-03-21 15:20:12,764 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json' exists. Proceeding with further actions.
+2024-03-21 15:20:12,788 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json'
+2024-03-21 15:22:22,490 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039481.json
+2024-03-21 15:22:32,499 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json' exists. Proceeding with further actions.
+2024-03-21 15:22:32,522 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json'
+2024-03-21 15:23:40,048 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928414.json
+2024-03-21 15:23:49,437 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-21 15:23:49,458 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-21 15:23:51,220 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-21 15:23:51,231 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-21 15:25:54,953 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:26:07,309 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:26:16,286 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:26:35,131 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:26:39,225 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:27:19,724 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:24,726 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:51,568 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:52,490 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:52,980 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:53,332 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+ERROR:root:Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+ERROR:error_logger:Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+2024-03-19 11:19:48,724 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6024636.json
+2024-03-19 11:19:59,362 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json' exists. Proceeding with further actions.
+2024-03-19 11:19:59,449 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-19 16:35:16,106 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6027989.json
+2024-03-19 16:35:26,673 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027989.json' exists. Proceeding with further actions.
+2024-03-19 16:35:53,965 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6027997.json
+2024-03-19 16:36:03,125 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json' exists. Proceeding with further actions.
+2024-03-19 16:36:03,145 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 09:24:26,278 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6038689.json
+2024-03-20 09:24:36,918 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6038689.json' exists. Proceeding with further actions.
+2024-03-20 09:24:37,410 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6038689.json'
+2024-03-20 10:39:33,678 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039481.json
+2024-03-20 10:39:42,543 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json' exists. Proceeding with further actions.
+2024-03-20 10:39:43,029 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 11:52:00,677 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039131.json'
+2024-03-20 11:53:52,073 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6040110.json
+2024-03-20 11:54:02,633 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040110.json' exists. Proceeding with further actions.
+2024-03-20 11:54:03,723 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040110.json'
+2024-03-20 11:57:02,737 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6040033.json
+2024-03-20 11:57:14,155 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json' exists. Proceeding with further actions.
+2024-03-20 11:57:18,209 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json' exists. Proceeding with further actions.
+2024-03-20 11:57:18,229 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6040033.json'
+2024-03-20 13:20:26,048 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041182.json
+2024-03-20 13:20:59,005 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json' exists. Proceeding with further actions.
+2024-03-20 13:20:59,015 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json'
+2024-03-20 13:22:03,335 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041201.json
+2024-03-20 13:22:15,769 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041201.json' exists. Proceeding with further actions.
+2024-03-20 13:22:15,786 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041201.json'
+2024-03-20 13:24:45,309 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041212.json
+2024-03-20 13:24:54,601 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json' exists. Proceeding with further actions.
+2024-03-20 13:24:55,158 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json'
+2024-03-20 13:31:18,524 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041285.json
+2024-03-20 13:31:30,270 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041285.json' exists. Proceeding with further actions.
+2024-03-20 13:31:31,688 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041285.json'
+2024-03-20 13:31:56,833 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041296.json
+2024-03-20 13:32:13,156 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json' exists. Proceeding with further actions.
+2024-03-20 13:32:13,174 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json'
+2024-03-20 13:36:14,911 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041328.json
+2024-03-20 13:36:24,390 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041328.json' exists. Proceeding with further actions.
+2024-03-20 13:36:24,406 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041328.json'
+2024-03-20 14:07:10,089 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929539.json
+2024-03-20 14:07:21,105 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929539.json' exists. Proceeding with further actions.
+2024-03-20 14:07:21,121 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929539.json'
+2024-03-20 14:08:54,639 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929621.json
+2024-03-20 14:09:04,303 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json' exists. Proceeding with further actions.
+2024-03-20 14:09:04,321 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json'
+2024-03-20 14:12:05,198 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929489.json
+2024-03-20 14:12:15,244 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json' exists. Proceeding with further actions.
+2024-03-20 14:12:15,262 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json'
+2024-03-20 14:15:34,882 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928404.json
+2024-03-20 14:15:43,755 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928404.json' exists. Proceeding with further actions.
+2024-03-20 14:15:43,780 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928404.json'
+2024-03-20 14:17:02,729 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039877.json
+2024-03-20 14:17:08,760 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039877.json' exists. Proceeding with further actions.
+2024-03-20 14:17:11,323 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039877.json'
+2024-03-20 14:22:25,007 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928414.json
+2024-03-20 14:22:32,253 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-20 14:22:32,269 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-20 14:25:52,176 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928053.json
+2024-03-20 14:26:03,710 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json' exists. Proceeding with further actions.
+2024-03-20 14:26:03,726 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json'
+2024-03-20 14:31:19,311 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+2024-03-20 14:31:29,150 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:31:29,168 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:38:00,670 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+2024-03-20 14:38:03,592 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:38:03,611 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:38:05,660 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 14:38:05,674 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 14:39:50,515 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041257.json
+2024-03-20 14:39:57,455 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json' exists. Proceeding with further actions.
+2024-03-20 14:39:58,917 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json'
+2024-03-20 14:39:59,086 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041257.json'
+2024-03-20 14:54:22,019 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5922546.json
+2024-03-20 14:54:26,938 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5922546.json
+2024-03-20 14:54:36,485 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json' exists. Proceeding with further actions.
+2024-03-20 14:54:36,501 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json'
+2024-03-20 14:56:55,008 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json' exists. Proceeding with further actions.
+2024-03-20 14:56:55,021 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5922546.json'
+2024-03-20 14:59:38,095 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5921581.json
+2024-03-20 14:59:46,747 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5921581.json' exists. Proceeding with further actions.
+2024-03-20 14:59:46,764 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5921581.json'
+2024-03-20 15:00:14,535 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6037692.json
+2024-03-20 15:00:21,621 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037692.json' exists. Proceeding with further actions.
+2024-03-20 15:00:21,641 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037692.json'
+2024-03-20 15:02:44,663 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6037723.json
+2024-03-20 15:02:53,273 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037723.json' exists. Proceeding with further actions.
+2024-03-20 15:02:53,296 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6037723.json'
+2024-03-20 15:11:18,607 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6024636.json
+2024-03-20 15:11:34,760 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json' exists. Proceeding with further actions.
+2024-03-20 15:11:34,777 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6024636.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-20 16:36:41,789 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5927808.json
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:37:06,346 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:37:06,370 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+2024-03-20 16:47:40,295 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json' exists. Proceeding with further actions.
+2024-03-20 16:47:40,814 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5927808.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+2024-03-21 15:07:45,710 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929489.json
+2024-03-21 15:08:00,715 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json' exists. Proceeding with further actions.
+2024-03-21 15:08:00,733 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929489.json'
+INFO:root:Connection established with Database.
+2024-03-21 15:20:02,172 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041212.json
+2024-03-21 15:20:12,764 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json' exists. Proceeding with further actions.
+2024-03-21 15:20:12,788 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041212.json'
+2024-03-21 15:22:22,490 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6039481.json
+2024-03-21 15:22:32,499 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json' exists. Proceeding with further actions.
+2024-03-21 15:22:32,522 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6039481.json'
+2024-03-21 15:23:40,048 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928414.json
+2024-03-21 15:23:49,437 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-21 15:23:49,458 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-21 15:23:51,220 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json' exists. Proceeding with further actions.
+2024-03-21 15:23:51,231 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928414.json'
+2024-03-21 15:25:54,953 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:26:07,309 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:26:16,286 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:26:35,131 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:26:39,225 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/59251581.json'
+2024-03-21 15:27:19,724 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:24,726 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:51,568 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:52,490 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:52,980 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+2024-03-21 15:27:53,332 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\None.json
+ERROR:root:Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+ERROR:error_logger:Error occurred: fetch_and_save_block_data() takes 1 positional argument but 2 were given
+2024-03-21 15:28:51,867 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5925158.json
+2024-03-21 15:29:03,254 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5925158.json' exists. Proceeding with further actions.
+2024-03-21 15:29:04,225 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5925158.json'
+2024-03-21 15:37:56,822 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041182.json
+2024-03-21 15:38:13,969 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json' exists. Proceeding with further actions.
+2024-03-21 15:38:13,992 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041182.json'
+2024-03-21 15:39:09,319 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6027997.json
+2024-03-21 15:39:18,601 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json' exists. Proceeding with further actions.
+2024-03-21 15:39:18,622 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6027997.json'
+2024-03-21 15:41:00,109 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5639413.json
+2024-03-21 15:41:13,410 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5639413.json' exists. Proceeding with further actions.
+2024-03-21 15:41:13,433 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5639413.json'
+2024-03-21 15:43:54,750 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929621.json
+2024-03-21 15:44:05,974 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json' exists. Proceeding with further actions.
+2024-03-21 15:44:05,993 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5929621.json'
+2024-03-21 15:47:59,505 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5929621.json
+2024-03-21 15:48:16,789 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6009654.json
+2024-03-21 15:48:22,787 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json' exists. Proceeding with further actions.
+2024-03-21 15:48:22,806 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json'
+2024-03-21 15:50:37,885 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\5928053.json
+2024-03-21 15:50:48,951 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json' exists. Proceeding with further actions.
+2024-03-21 15:50:48,974 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json'
+2024-03-21 15:50:54,679 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json' exists. Proceeding with further actions.
+2024-03-21 15:50:54,689 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/5928053.json'
+2024-03-21 15:52:17,420 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6041296.json
+2024-03-21 15:52:27,245 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json' exists. Proceeding with further actions.
+2024-03-21 15:52:27,263 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6041296.json'
+2024-03-21 15:58:33,439 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\6057425.json
+2024-03-21 15:58:44,751 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6057425.json' exists. Proceeding with further actions.
+2024-03-21 15:58:44,771 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6057425.json'
