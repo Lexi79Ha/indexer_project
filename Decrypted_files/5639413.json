@@ -1,0 +1,60 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/ibc.applications.transfer.v1.MsgTransfer",
+          "source_port": "transfer",
+          "source_channel": "channel-0",
+          "token": {
+            "denom": "factory/migaloo1436kxs0w2es6xlqpp9rd35e3d0cjnw4sv8j3a7483sgks29jqwgshqdky4/ampWHALE",
+            "amount": "284908015"
+          },
+          "sender": "migaloo1l0r3xfktp446qg9u5zft62v7lwuej09hwm50as",
+          "receiver": "terra1gt34vqgxpkeysrkmq7j3992hv83yyaf49pgw9d",
+          "timeout_height": {
+            "revision_number": "0",
+            "revision_height": "0"
+          },
+          "timeout_timestamp": "1708671794091000000",
+          "memo": ""
+        }
+      ],
+      "memo": "",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "ApIDO3tdcaH0vqxNcx5Kpyqqgj9K3MoOHZKD6NQ7znbt"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_DIRECT"
+            }
+          },
+          "sequence": "50"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "298000"
+          }
+        ],
+        "gas_limit": "149000",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "Rq+0IFVzbPJEMK6eOzvJjR71SkvUAJmV+IPW/whAI6Yz4HbLAn2yIvPGJ2aZncV+ZpQ75VneexBwlYO03QD6YQ=="
+    ]
+  }
+}

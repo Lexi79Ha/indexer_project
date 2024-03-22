@@ -1,0 +1,73 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmos.authz.v1beta1.MsgGrant",
+          "granter": "migaloo1rg9gjlll3x0dntlanemxtl08ulyl03nk8e3g09",
+          "grantee": "migaloo1f49xq0rmah39sk58aaxq6gnqcvupee7jne0wep",
+          "grant": {
+            "authorization": {
+              "@type": "/cosmos.staking.v1beta1.StakeAuthorization",
+              "max_tokens": null,
+              "allow_list": {
+                "address": [
+                  "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70"
+                ]
+              },
+              "authorization_type": "AUTHORIZATION_TYPE_DELEGATE"
+            },
+            "expiration": "2024-06-13T07:43:58.933Z"
+          }
+        },
+        {
+          "@type": "/cosmos.authz.v1beta1.MsgGrant",
+          "granter": "migaloo1rg9gjlll3x0dntlanemxtl08ulyl03nk8e3g09",
+          "grantee": "migaloo1f49xq0rmah39sk58aaxq6gnqcvupee7jne0wep",
+          "grant": {
+            "authorization": {
+              "@type": "/cosmos.authz.v1beta1.GenericAuthorization",
+              "msg": "/cosmos.distribution.v1beta1.MsgWithdrawDelegatorReward"
+            },
+            "expiration": "2024-06-13T07:43:58.934Z"
+          }
+        }
+      ],
+      "memo": "Activating Yieldmos Strategy",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "Ahc9DObat969IH5pecH2EQ8N4nlSsKq/pV+2klI7Ejke"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_DIRECT"
+            }
+          },
+          "sequence": "1"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "205623"
+          }
+        ],
+        "gas_limit": "171352",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "TS7o8Rj/XzYUl/g0/ljYNEUhPi6ZgG6j6hxrIiVTtsQF+ZQpgk31FMIaxOJSaXR45G/iMVvKuWISfg46GFUIew=="
+    ]
+  }
+}

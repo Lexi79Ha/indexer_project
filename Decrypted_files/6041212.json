@@ -1,0 +1,52 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+          "delegator_address": "migaloo1rdg7ec7a8men3dvxnh5afkpdxcevqkrkeh70rh",
+          "validator_address": "migaloovaloper1tpdsm2g6wzq4lwxqn8xegxxcwdumf2rn8qt724",
+          "amount": {
+            "denom": "uwhale",
+            "amount": "16557300"
+          }
+        }
+      ],
+      "memo": "ping.pub",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "Ajr+Vq3xm4x+KzegtexPq8jjRjboTXi9uzdQhHPvB2yA"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+            }
+          },
+          "sequence": "31"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "348143"
+          }
+        ],
+        "gas_limit": "290119",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "WhvnDLIE5Emd7fpzvrpySKz2i18tKoChmlHEQUVw+VZY1Y59fs4v0i2y9Su4HbLdMo0b0080wanbnxSfPz04Zg=="
+    ]
+  }
+}

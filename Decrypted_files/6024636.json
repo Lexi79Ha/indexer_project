@@ -1,0 +1,274 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmos.authz.v1beta1.MsgExec",
+          "grantee": "migaloo194ytn50yhh67rdha8akhs7c6zulnz4n2yrqeed",
+          "msgs": [
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo194dawsp29zcp4s9r6hdppdak0cy5kf3xxvzrf6",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "158"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo19vt5ns4jqdh2ea7sdnaascap6k48vy976zep0d",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "35"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1xyagrj65z7ug4ez6mkt27d79es9yrpfsu79m7p",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "1"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1rnnuk7rmjwj3ep97s5d0w5ek5che53ekdmcthg",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "9345"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1x7at0lqy29j3md6cc8x40rsfgf5egd9fjq8gnr",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "28"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo190pj7x86udazs82e66e67sn3lwmsz9rr3hcnre",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "48"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1gx5cx6prh66wkqtpmssd84q5dmvuw8cvg5lzsg",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "147"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo18wm3f6s7yw0f0la09rnczvu9xp8wkkxfl0zg2y",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "7"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo18wg80p26wzjwdggclux0mzeetdapfhjc6zt7ll",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "579"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1rmk972wd09fjx5r2pcy6assujskykq98dqq3gx",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "15"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo19fjkvc7qkq6taj39ykpypjwhmdczwvc5ttkrwe",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "3334"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1g8wv3y5mrdalr7ejar0apv43tge2lns5zs2k47",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "6"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1xwew6rey29tw44y59ayt522eszxahxt4rqf6u8",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "20"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1xu8dguq27prxnnx9ugvgzgdeh3ww4q0ztt0x9f",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "2895"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo18crh2zlxusj0pv6fg6yhawxqavmefzf28tn0jh",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "2987"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1g2fw2rlthtplle950cmg5kk48aphlvfg8lrsyw",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "6"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1f9xuvjduhflm6jawfmyxatcvmkcuc5a6aaeytj",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "4"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1fsclv2hq9vf2jw8dv5wrffprh5ga623mrvwtmc",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "3529"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1tg20eujl62v226h0404thnu4pu42rd8vl8psx6",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "1377"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1t3w50f47qwd7vepuputevvav4dw0vvwwh4427l",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "13"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1t033crs7ljcgnu4fhfelgrwxvtemhacatfgyc3",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "5"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo12uwj2p82k97ksvs6dcllktxkr68zsm25zmxaw7",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "15"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo127hgjjrst9mngejd4l4wprnnppwl6e22hncm7w",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "159"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo1vttntyrujhe9dwaxc7mczdvq233nhd4cuvdxn5",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "15"
+              }
+            },
+            {
+              "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+              "delegator_address": "migaloo12s7cfwfj3jc8f89cw8ws0jfaux37tyjwtky0pp",
+              "validator_address": "migaloovaloper1zcg67ju2g3fluw5ad46pnxx5w6sdnz0jsglk70",
+              "amount": {
+                "denom": "uwhale",
+                "amount": "518"
+              }
+            }
+          ]
+        }
+      ],
+      "memo": "REStaked by  AutoStake \ud83d\udee1\ufe0f Slash Protected",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A5pdj0XXSPm4/wdyFYE4snAiwjomXME+ZjtnmsS60HXj"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_DIRECT"
+            }
+          },
+          "sequence": "444157"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "6"
+          }
+        ],
+        "gas_limit": "5595475",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "3okzO7boxZVcJervhoV/9kTPe3QMJozEhkSYdnaEffYfEtOXlNhjUGEIEbJYwGzyDw32z9kByEsQLQPqwNQoZQ=="
+    ]
+  }
+}
