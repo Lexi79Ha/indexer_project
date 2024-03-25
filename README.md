@@ -21,7 +21,7 @@
 <p>•	Chained Blocks: This hash becomes part of the next block, creating a chain of blocks.</p>
 <p>•	Immutable: Once data is recorded, it’s irreversible. For example, in Bitcoin, transactions are permanently viewable by anyone.</p>
 <h3>Transaction Types</h3>
-![Screenshot 2024-03-25 113301](https://github.com/Lexi79Ha/indexer_project/assets/139013867/cae8aa72-1765-4cb1-b0fe-381635c2425b)
+![Screenshot 2024-03-25 114033](https://github.com/Lexi79Ha/indexer_project/assets/139013867/ec868e61-75ef-4018-8076-e7e8ec7f87bd)
 <h3>Message Types</h3>
 ![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/8b3603ee-20b8-40f1-9a94-8308c2f5b84e)
 <h2>Schema</h2>
