@@ -20,16 +20,17 @@
 <p>•	Creation: A block is created after a predetermined amount of time.</p>         
 <p>•	Chained Blocks: This hash becomes part of the next block, creating a chain of blocks.</p>
 <p>•	Immutable: Once data is recorded, it’s irreversible. For example, in Bitcoin, transactions are permanently viewable by anyone.</p>
-<h3>Schema</h3>
-![Screenshot 2024-03-25 113301](https://github.com/Lexi79Ha/indexer_project/assets/139013867/1cd81362-464e-483c-a126-a06db760290b)
+<h3>Transaction Types</h3>
+<h2>Schema</h2>
 <h3>Total Tables: 41</h3>
 <h3>Table Types</h3>
 <h4>1.Block Table</h4>
-<h5>a.Consists of every transaction loaded into the system.</h5>
+<h5>Consists of every transaction loaded into the system.</h5>
 <h4>2.Transaction Header Tables </h3>
-<h5>a.Each header table will contain one transaction type and will show overview information for those transactions.</h5>
+<h5>Each header table will contain one transaction type and will show overview information for those transactions.</h5>
 <h4>3.Transaction Detail Tables</h4>
-<h5>a.Each transaction detail table will contain one message type and provide more in-depth data about what occurred in its related messages.</h5>
-<h3>C.	Blockchain-related links</h3>
+<h5>Each transaction detail table will contain one message type and provide more in-depth data about what occurred in its related messages.</h5>
+<h2>Resources and External Tools links</h2>
 <p>a.	https://fio.bloks.io/</p>
 <p> b. https://github.com/White-Whale-Defi-Platform/migaloo-chain.git</p>
+<p>c.https://dbdiagram.io/![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/0b3c1ac3-c324-44c0-aec0-3ceeac8c4e54)</p>
