@@ -5,3 +5,7 @@ INFO:root:Connection established with Database.
 INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5639413.json' exists. Proceeding with further actions.
 INFO:root:Connection established with Database.
 INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5639413.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5639413.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5639413.json' exists. Proceeding with further actions.
