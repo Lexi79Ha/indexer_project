@@ -1,0 +1,6 @@
+{
+  "code": 2,
+  "message": "codespace sdk code 2: tx parse error: txRaw must follow ADR-027, got tagNum 1 after tagNum 3",
+  "details": [],
+  "hashed_result": "57A393645B910F8B03EF88E44F96034F8CCB7B8D0C518EBD1125DA0EFBC36AAA"
+}

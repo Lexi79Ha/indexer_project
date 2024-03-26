@@ -1,0 +1,50 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmos.authz.v1beta1.MsgRevoke",
+          "granter": "migaloo1zxxrhuppdnlefxf3cwhtz34whtrcw5gp4y402r",
+          "grantee": "migaloo1r8egcurpwxftegr07gjv9gwffw4fk009xnxsdd",
+          "msg_type_url": "/cosmos.staking.v1beta1.MsgDelegate"
+        }
+      ],
+      "memo": "",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "A8iszOVGpPUn1EzlZqOARUOKyhX4iNT0I+LU0Eedu2D/"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+            }
+          },
+          "sequence": "22"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "26870"
+          }
+        ],
+        "gas_limit": "107479",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "/EjeVPzd7h1w215Beaz6eFB792fnEvLRkk3nhUfcUIcxP9+jasyGD200tsQ8ySfDLXy8I8Cw736XOfCUIp4Dsg=="
+    ]
+  },
+  "hashed_result": "DE3DE3DADB69A6A600881955435A38D42A62BC22D21A4689D348CA9FFCF23B5A"
+}

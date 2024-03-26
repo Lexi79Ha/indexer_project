@@ -1,0 +1,64 @@
+{
+  "tx": {
+    "body": {
+      "messages": [
+        {
+          "@type": "/cosmwasm.wasm.v1.MsgExecuteContract",
+          "sender": "migaloo135etht2ltua886jn8lgy65repy78czv0vggz8l",
+          "contract": "migaloo1vst3dczylkrwqxygc7n5u94rhd8rxje2m9h7y5der6wr5lqmu8rsxqef8q",
+          "msg": {
+            "validate_mission": {
+              "mission": "shark_lsd_shark_locked_liquidity"
+            }
+          },
+          "funds": [
+            {
+              "denom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/shark",
+              "amount": "15017030"
+            },
+            {
+              "denom": "factory/migaloo1p3aj9f09d7c4jxhgue0hpdpw370j6gzc59nxxx6l8d0gc9f9rfwsdwetus/lsdSHARK",
+              "amount": "15017030"
+            }
+          ]
+        }
+      ],
+      "memo": "undefined",
+      "timeout_height": "0",
+      "extension_options": [],
+      "non_critical_extension_options": []
+    },
+    "auth_info": {
+      "signer_infos": [
+        {
+          "public_key": {
+            "@type": "/cosmos.crypto.secp256k1.PubKey",
+            "key": "AvliSBJYMR1Q449yo0oai1oDtYxYPJfBI1jGacyttY5i"
+          },
+          "mode_info": {
+            "single": {
+              "mode": "SIGN_MODE_LEGACY_AMINO_JSON"
+            }
+          },
+          "sequence": "43"
+        }
+      ],
+      "fee": {
+        "amount": [
+          {
+            "denom": "uwhale",
+            "amount": "1242684"
+          }
+        ],
+        "gas_limit": "621342",
+        "payer": "",
+        "granter": ""
+      },
+      "tip": null
+    },
+    "signatures": [
+      "ptt0q4Ik0UiCipGsZYsEKO7F/wj9qsmYv6iaoeXtTTtpksU1XFAAvEC+d0iLEOHH+aZe7cHcpEC7W3uBfM2lYw=="
+    ]
+  },
+  "hashed_result": "7601702FAE05CBE3AABAE508F385E36B1572CB285F86BE4C7CA92B1CE2006CCA"
+}
