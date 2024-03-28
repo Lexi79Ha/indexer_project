@@ -25,13 +25,13 @@
 <h3>Message Types</h3>
 ![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/8b3603ee-20b8-40f1-9a94-8308c2f5b84e)
 <h2>Schema</h2>
-![Screenshot 2024-03-25 113301](https://github.com/Lexi79Ha/indexer_project/assets/139013867/4e604714-6c18-42ca-ab65-5ad8d3d5895e)
-<h3>Total Tables: 41</h3>
+<img src="erd.png" alt="alt text" />
+<h3>Total Tables: 22 </h3>
 <h3>Table Types</h3>
 <h4>1.Block Table</h4>
 <h5>Consists of every transaction loaded into the system.</h5>
-<h4>2.Transaction Header Tables </h3>
-<h5>Each header table will contain one transaction type and will show overview information for those transactions.</h5>
+<h4>2.Transaction Header Table </h3>
+<h5>The header table will contain overview information for each transaction.</h5>
 <h4>3.Transaction Detail Tables</h4>
 <h5>Each transaction detail table will contain one message type and provide more in-depth data about what occurred in its related messages.</h5>
 <h2>Resources and External Tools links</h2>
