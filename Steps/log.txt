@@ -652,3 +652,45 @@ INFO:root:Connection established with Database.
 2024-03-25 15:18:57,665 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6057425.json'
 2024-03-25 15:20:06,987 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json' exists. Proceeding with further actions.
 2024-03-25 15:20:07,017 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json'
+2024-03-28 10:03:40,148 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\1194331.json
+2024-03-28 10:24:16,706 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/1194331.json' exists. Proceeding with further actions.
+2024-03-28 10:24:16,728 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/1194331.json'
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5928053.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6024636.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5905757.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6039481.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6041182.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5927808.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/5929489.json' exists. Proceeding with further actions.
+INFO:root:Connection established with Database.
+INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6041212.json' exists. Proceeding with further actions.
