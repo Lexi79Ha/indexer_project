@@ -1,5 +1,7 @@
 <h1>Indexer Blockchain Project</h1>
 <h3> Current working progress is in Steps directory</h3>
+<h4> Key files: Extract.pynb, Translate.pynb, load_to_block_table.pynb, load_to_transaction_header_pynb</h4>
+<h4> WIP: Transaction Detail Insert statements are in the process of being revised due to recent updates in Schema Design</h4>
 <h4>List of transaction types, and test block numbers for each transaction can be found in Transaction_Type_Test_Blocks.xlsx</h4>
 <h4>File for ERD diagram can be found in Indexer_ERD_Diagram</h4>
 
