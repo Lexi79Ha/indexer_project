@@ -1,5 +1,5 @@
 <h1>Indexer Blockchain Project</h1>
-<h3> Current working progress is in steps directory</h3>
+<h3> Current working progress is in Steps directory</h3>
 <h4>List of transaction types, and test block numbers for each transaction can be found in Transaction_Type_Test_Blocks.xlsx</h4>
 <h4>File for ERD diagram can be found in Indexer_ERD_Diagram</h4>
 
