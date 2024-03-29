@@ -28,7 +28,7 @@
 <img src="img/msg.png" alt="alt text" />
 <h2>Schema</h2>
 <img src="img/erd.png" alt="alt text" />
-<h3>Total Tables: 22 </h3>
+<h3>Total Tables: 23 </h3>
 <h3>Table Types</h3>
 <h4>1.Block Table</h4>
 <h5>Consists of every transaction loaded into the system.</h5>
