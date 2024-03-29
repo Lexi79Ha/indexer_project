@@ -39,4 +39,4 @@
 <h2>Resources and External Tools links</h2>
 <p>a.	https://fio.bloks.io/</p>
 <p> b. https://github.com/White-Whale-Defi-Platform/migaloo-chain.git</p>
-<p>c.https://dbdiagram.io/![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/0b3c1ac3-c324-44c0-aec0-3ceeac8c4e54)</p>
+<p>c.https://dbdiagram.io/</p>
