@@ -1,5 +1,7 @@
 <h1>Indexer Blockchain Project</h1>
-<h3> Current working progress is in steps directory</h3>
+<h3> Current working progress is in Steps directory</h3>
+<h4> Key files: Extract.pynb, Translate.pynb, load_to_block_table.pynb, load_to_transaction_header_pynb</h4>
+<h4> WIP: Transaction Detail Insert statements are in the process of being revised due to recent updates in Schema Design</h4>
 <h4>List of transaction types, and test block numbers for each transaction can be found in Transaction_Type_Test_Blocks.xlsx</h4>
 <h4>File for ERD diagram can be found in Indexer_ERD_Diagram</h4>
 
@@ -21,20 +23,21 @@
 <p>•	Chained Blocks: This hash becomes part of the next block, creating a chain of blocks.</p>
 <p>•	Immutable: Once data is recorded, it’s irreversible. For example, in Bitcoin, transactions are permanently viewable by anyone.</p>
 <h3>Transaction Types</h3>
-![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/c44a5e74-f8ff-4388-b5e0-187228484a16)
+<img src="img/transactions.png" alt="alt text" />
 <h3>Message Types</h3>
-![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/8b3603ee-20b8-40f1-9a94-8308c2f5b84e)
+<img src="img/msg.png" alt="alt text" />
 <h2>Schema</h2>
-![Screenshot 2024-03-25 113301](https://github.com/Lexi79Ha/indexer_project/assets/139013867/4e604714-6c18-42ca-ab65-5ad8d3d5895e)
-<h3>Total Tables: 41</h3>
+<img src="img/erd.png" alt="alt text" />
+<h3>Total Tables: 23 </h3>
 <h3>Table Types</h3>
 <h4>1.Block Table</h4>
 <h5>Consists of every transaction loaded into the system.</h5>
-<h4>2.Transaction Header Tables </h3>
-<h5>Each header table will contain one transaction type and will show overview information for those transactions.</h5>
+<h4>2.Transaction Header Table </h3>
+<h5>The header table will contain overview information for each transaction.</h5>
 <h4>3.Transaction Detail Tables</h4>
 <h5>Each transaction detail table will contain one message type and provide more in-depth data about what occurred in its related messages.</h5>
 <h2>Resources and External Tools links</h2>
 <p>a.	https://fio.bloks.io/</p>
 <p> b. https://github.com/White-Whale-Defi-Platform/migaloo-chain.git</p>
-<p>c.https://dbdiagram.io/![image](https://github.com/Lexi79Ha/indexer_project/assets/139013867/0b3c1ac3-c324-44c0-aec0-3ceeac8c4e54)</p>
+<p>c.https://dbdiagram.io/</p>
+<p>d. https://inbloc.org/migaloo/transactions</p>
