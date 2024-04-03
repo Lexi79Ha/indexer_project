@@ -710,3 +710,7 @@ INFO:root:Connection established with Database.
 INFO:root:File 'C:/Users/lmhmo/Indexer_Project/indexer_project/Decrypted_files/6041257.json' exists. Proceeding with further actions.
 2024-03-28 11:18:20,522 - INFO - Data saved to C:/Users/lmhmo/Indexer_Project/indexer_project/blocks\1194331.json
 2024-03-28 11:18:59,090 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/1194331.json' exists. Proceeding with further actions.
+2024-04-03 09:43:22,839 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json' exists. Proceeding with further actions.
+2024-04-03 09:43:22,859 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json'
+2024-04-03 09:43:34,368 - INFO - File 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json' exists. Proceeding with further actions.
+2024-04-03 09:43:34,379 - INFO - Data processed successfully from file 'C:/Users/lmhmo/Indexer_Project/indexer_project/blocks/6009654.json'

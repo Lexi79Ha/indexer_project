@@ -16,7 +16,7 @@ def process_transaction_data(file_path):
         return "File not found."
 
 # Example usage
-file_path = '../blocks/3102393.json'
+file_path = '../../blocks/3102393.json'
 code = process_transaction_data(file_path)
 print(code)
 
