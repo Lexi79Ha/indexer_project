@@ -8,20 +8,22 @@
 <h2>Project Summary</h2>
 <h4>To create a system that can extract JSON files, translate the encrypted transactions, and upload that information into a database that will act as a distributed ledger. 
 </h4>
-<h3>A.	What Is a Blockchain?</h3>
-<p>•	 A blockchain is a distributed database or ledger shared among a network of computers (nodes).</p>
-<p>•	While it’s most famous for its role in cryptocurrency systems, it’s not limited to just that.</p>
-<p>•	Blockchains can be used to make data in any industry immutable, meaning it cannot be altered.</p>
-<p>•	Unlike traditional databases, where trust often relies on third parties, blockchains operate without a central authority.</p>
-<p>•	Decentralized blockchains are particularly interesting because no single person or group controls them—instead, all users collectively retain control.</p>
-<h3>B.	How Does a Blockchain Work?</h3>
-<p>•	Imagine a spreadsheet or database where information is entered and stored.</p>
-<p>•	In a blockchain, data is structured differently and accessed via a series of blocks linked together using cryptography.</p>
-<p>•	Here’s how it works:</p>
-<p>•	Transaction Information: The blockchain collects transaction data and enters it into a block.</p>
-<p>•	Creation: A block is created after a predetermined amount of time.</p>         
-<p>•	Chained Blocks: This hash becomes part of the next block, creating a chain of blocks.</p>
-<p>•	Immutable: Once data is recorded, it’s irreversible. For example, in Bitcoin, transactions are permanently viewable by anyone.</p>
+<h2>Steps for Project</h2>
+<h3>1.Extract data</h3>
+<h4>a. Pull data from API</h4>
+<h4>b. Assign file names as {block#}.json and send to temp directory ("Blocks")
+<h3>2.Translate Data</h3>
+<h4>a. Isolate TXS data from the rest of the json file and assign it to variable "code"</h4>
+<h4>b.Hash TXS data from json file using sha 256</h4>
+<h4>c.Decrypt TXS data using Bay64 API </h4>
+<h4>d. Move Decrypted data and hash to a new json file, named {block#}.json and send to new directory(Decrypted_files)</h4>
+<h3>3.Build Schema</h3>
+<h4>a.Create an ERD Diagram</h4>
+<h4>b.Write a script that will generate every table need for database</h4>
+<h3>4. Writing Loading Scripts</h3>
+<h4>a. Loading script for Block Table</h4>
+<h4>b. Loading script for Transaction header table</h4>
+<h4>c. Individual loading script for every message type</h4>
 <h3>Transaction Types</h3>
 <img src="img/transactions.png" alt="alt text" />
 <h3>Message Types</h3>
