@@ -24,6 +24,15 @@
 <h4>a. Loading script for Block Table</h4>
 <h4>b. Loading script for Transaction header table</h4>
 <h4>c. Individual loading script for every message type</h4>
+<h2> How to use </h2>
+<h4> Download zip file or use command prompt below</h4>
+<h4> git clone https://github.com/Lexi79Ha/indexer_project.git</h4>
+<h4> Go to Extract.py,input a test block number for claims delegations (can be found in transaction excel file), run script, json file will be sent to temp directory</h4>
+<h4> Go to translate.py, input test block number,run script, hash will be generated and json file will be decoded, and the data will be sent to the decrypted file directory</h4>
+<h4> Go to schema.py, run script, database will be generated</h4>
+<h4> Go to load_to_block_table.py , input test block number, run script, data will be loaded to block table</h4>
+<h4> Go to load_to_transaction_header.py, input test block number, run script, data will be loaded to transaction header table</h4>
+<h4> Go to load_msg directory, find load_to_msg_claims_delegations, input block number, run script, data will be loaded to transaction_detail_msg_claims_delegations_table</h4>
 <h3>Transaction Types</h3>
 <img src="img/transactions.png" alt="alt text" />
 <h3>Message Types</h3>
