@@ -52,3 +52,6 @@
 <p> b. https://github.com/White-Whale-Defi-Platform/migaloo-chain.git</p>
 <p>c.https://dbdiagram.io/</p>
 <p>d. https://inbloc.org/migaloo/transactions</p>
+<h2>Author</h2>
+<h4> Alexis Harris</h4>
+<h4> lmh.mo.6@gmail.com</h4>
